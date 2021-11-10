@@ -7,7 +7,7 @@ const needle = require("needle");
 // To set environment variables on macOS or Linux, run the export command below from the terminal:
 // export BEARER_TOKEN='YOUR-TOKEN'
 const token =
-  "AAAAAAAAAAAAAAAAAAAAAHDWVQEAAAAATSf%2Fo8y%2BIk5BmYQDMqHh6Mfgsns%3DgnxqULA7YAL427mE9cPXZIsNwo17F0V7TY5k08fXQbyLkUPyiE";
+  "";
 
 const endpointUrl = "https://api.twitter.com/2/tweets/counts/recent";
 
